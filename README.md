@@ -1,6 +1,6 @@
-# Nail Image Classifier
+# Nail diseases Classifier
 
-This project implements a hybrid deep learning model for classifying nail images. It combines a ResNet50 feature extractor with a Vision Transformer (ViT) classifier to achieve high accuracy in nail condition classification.
+This project implements a hybrid deep learning model for classifying nail diseases images. It combines a ResNet50 feature extractor with a Vision Transformer (ViT) classifier to achieve high accuracy in nail condition classification.
 
 ## Features
 
